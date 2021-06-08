@@ -1,0 +1,50 @@
+.menu{
+    justify-content: space-between; 
+    background-color: #1e90ff; 
+    padding: 15px;
+    font-size: 20px; 
+    font-family: sans-serif; 
+    font-weight: 400; 
+    color: #ffffff; 
+}
+
+body{ 
+    margin: 0px;
+    background-color: #ffebcd; 
+} 
+
+.grid{ 
+    display: flex; 
+    flex-wrap: wrap; 
+    font-family: sans-serif;
+}
+
+.grid img{ 
+    border: 2px solid #000000; 
+    border-radius: 50px; 
+} 
+
+.origami{ 
+    border-radius: 20px; 
+    background-color: #ffebcd; 
+    width:310px; 
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 75px;
+}
+
+.origami li, p{
+    color: #7b68ee;
+    padding: 10px;
+}
+
+.bodyimg p{
+    font-size: 30px;
+    text-align: center;
+    color: #d87093;
+}
+
+.bodyimg h3{
+    color: #778899;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
